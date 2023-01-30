@@ -1,3 +1,4 @@
 começo de um ciclo
 começando a segundona
 atualizando todas as funções necessarias
+ajustando todas as funções de uma vez
